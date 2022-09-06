@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Romain Helard and I'm 34 years old ! ;)
 - 👀 I’m interested in Web Development & Mobile Development !
-- 🌱 I’m working on `HTML/CSS` `BootStrap` `Javascript` `PHP` `Symfony` `Laravel` `Angular` `ReactJS` `C#` `Java`
+- 🌱 I’m working on `HTML/CSS` `BootStrap` `Tailwind` `Javascript` `PHP` `Symfony` `Laravel` `Angular` `ReactJS` `C#` `Java`
 - ⚡ Fun fact :  #titanic { float : none; }
 
 #
