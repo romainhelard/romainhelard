@@ -18,16 +18,16 @@
   <br>
   <br>
   <div align="center">⚡ Fun fact :  #titanic { float : none; }</div>
-  <div align="center">🌱 I’m working on :</div>
   <br>
 </header>
 
 ```graphql
-# Code & components for pages
+# 🌱 I’m working on :
+
 ./src/* 
   ├─ src/softwares/graphic - # Adobe Photoshop & Illustrator, Figma
   ├─ src/softwares/dev - # Visual Studio & VS Code, Intellij Idea
-  ├─ src/frameworks - # BootStrap, TailwindCSS, TypeScript, Symfony, Angular, .Net
+  ├─ src/frameworks - # BootStrap, TailwindCSS, TypeScript, Symfony, Laravel, Angular, .Net
   ├─ src/languages - # HTML5, CSS3, Javascript, PHP, C#, Java
-  └─ src/database - # Microsoft SQL Server
+  └─ src/database - # Microsoft SQL Server, MySQL
   ```
