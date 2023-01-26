@@ -28,6 +28,6 @@
   ├─ src/softwares/graphic - # Adobe Photoshop & Illustrator, Figma
   ├─ src/softwares/dev - # Visual Studio & VS Code, Intellij Idea
   ├─ src/frameworks - # BootStrap, TailwindCSS, TypeScript, Symfony, Laravel, Angular, .Net
-  ├─ src/languages - # HTML5, CSS3, Javascript, PHP, C#, Java
+  ├─ src/languages - # HTML5 & CSS3, Javascript, PHP, C#, Java
   └─ src/database - # Microsoft SQL Server, MySQL
   ```
