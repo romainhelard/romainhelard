@@ -1,6 +1,6 @@
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://i.postimg.cc/NfPVvnd8/github-brand-main-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://i.postimg.cc/LXwRXsTD/github-brand-main.png" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://i.postimg.cc/XN6FhQkq/banner-Dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://i.postimg.cc/xdyYdfhW/banner-White.png" />
     <img alt="Romain Helard | Full-Stack Developer · Graphic Designer 🎨" src="https://i.postimg.cc/LXwRXsTD/github-brand-main.png" width="100%" />
   </picture>
   <header>
