@@ -26,8 +26,8 @@
 
 ./src/* 
   ├─ src/softwares/graphic - # Adobe Photoshop & Illustrator, Figma
-  ├─ src/softwares/dev - # Visual Studio & VS Code, Intellij Idea
-  ├─ src/frameworks - # BootStrap, TailwindCSS, Symfony, React, Angular, TypeScript, SpringBoot, Ionic, Flutter
-  ├─ src/languages - # HTML5 & CSS3, Javascript, PHP, C#, Java
-  └─ src/database - # Microsoft SQL Server, MySQL
+  ├─ src/softwares/dev - # VS Code, Intellij, Eclipse
+  ├─ src/frameworks - # Tailwind, BootStrap, Symfony, React, Angular, SpringBoot, Capacitor, Flutter
+  ├─ src/languages - # HTML & CSS, Javascript, TypeScript, PHP, C#, Java
+  └─ src/database - # Microsoft SQL Server, MySQL, Postgre SQL
   ```
