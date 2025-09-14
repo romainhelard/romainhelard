@@ -22,7 +22,7 @@
 ./src/* 
   ├─ src/softwares/graphic - # Adobe Photoshop & Illustrator, Figma
   ├─ src/softwares/dev - # VS Code, Intellij, Eclipse, XCode
-  ├─ src/frameworks - # Tailwind, BootStrap, Symfony, React, Angular, SpringBoot, Capacitor, Flutter
+  ├─ src/frameworks - # Tailwind, BootStrap, Symfony, React, Angular, SpringBoot, Capacitor, Flutter, Expo
   ├─ src/languages - # HTML & CSS, Javascript, TypeScript, PHP, C#, Java, Kotlin, Swift
   └─ src/database - # Microsoft SQL Server, MySQL, Postgre SQL
   ```
