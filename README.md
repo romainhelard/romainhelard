@@ -10,19 +10,4 @@
       <img alt="My Instagram Profile" src="https://img.shields.io/badge/Instagram-romainjocelyn-EC5515?style=flat&logo=instagram&logoColor=ffffff&labelColor=334155">
     </a>
   </div>
-  <br>
-  <br>
-  <div align="center">⚡ Fun fact :  #titanic { float : none; }</div>
-  <br>
 </header>
-
-```graphql
-# 🌱 I’m working on :
-
-./src/* 
-  ├─ src/softwares/graphic - # Adobe Photoshop & Illustrator, Figma
-  ├─ src/softwares/dev - # VS Code, Intellij, Eclipse, XCode
-  ├─ src/frameworks - # Tailwind, BootStrap, Symfony, React, Angular, SpringBoot, Capacitor, Flutter, Expo
-  ├─ src/languages - # HTML & CSS, Javascript, TypeScript, PHP, C#, Java, Kotlin, Swift
-  └─ src/database - # Microsoft SQL Server, MySQL, Postgre SQL
-  ```
