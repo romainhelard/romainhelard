@@ -11,6 +11,7 @@
     </a>
   </div>
 </header>
+<hr>
 
 <p align="center">
   <img
